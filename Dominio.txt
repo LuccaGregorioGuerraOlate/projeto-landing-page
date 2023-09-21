@@ -1,6 +1,2 @@
 Dominio no surge
-https://waiting-pan.surge.sh/
-
-repositorio 
-
-https://github.com/rafaelmelodruzian/projeto-landing-page
+https://lucca-4-food.surge.sh
